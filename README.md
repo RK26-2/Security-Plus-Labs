@@ -17,8 +17,8 @@ In these labs, I demonstrated hands-on proficiency in security configurations an
 * **Proof:** [View Lab Documentation](./Lab-works)
 
 ### 2. Network Security & Monitoring
-* **Objective:** (Add a short sentence about your other snapshots here, e.g., Wireshark or Firewall setup, taking the right steps for the company to manage security most effectively).
-* **Proof:** [View Snapshots](./Lab-works/securingnetworks.zip)
+* **Objective:** (My objectives here are to capture the network using Wireshark, check any open ports, perform packet analysis, play a role as security manager to secure the company network, and secure Wi-Fi).
+* **Proof:** [View Snapshots](./Lab-works)
 
 ---
 
