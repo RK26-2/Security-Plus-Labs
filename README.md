@@ -1,2 +1,36 @@
-# Security-Plus-Labs
-Hands-on security labs and documentation from my CompTIA Security Plus, Coursera Packt, Google Cybersecurity certification journey.
+# Cybersecurity Portfolio | Rozina
+
+Welcome to my technical portfolio. I am a **CompTIA Security+ Certified** professional (Score: 774) with a focus on network security, threat mitigation, and hands-on laboratory defense.
+
+---
+
+## 🏆 Certifications
+* **CompTIA Security+ CE and others** * *Status:* Active (2026)
+  * *Verification:* [View Certificate](./certificates/)
+
+## 🛠️ Technical Labs & Projects
+In these labs, I demonstrated hands-on proficiency in security configurations and troubleshooting.
+
+### 1. RAID 5 Array Configuration & Debugging
+* **Objective:** Configure a resilient storage array and bypass kernel restrictions.
+* **Skills:** Linux CLI, `mdadm`, Disk Management, Troubleshooting "Operation Not Permitted" errors.
+* **Proof:** [View Lab Documentation](./Lab-works)
+
+### 2. Network Security & Monitoring
+* **Objective:** (Add a short sentence about your other snapshots here, e.g., Wireshark or Firewall setup, taking the right steps for the company to manage security most effectively).
+* **Proof:** [View Snapshots](./Lab-works/securingnetworks.zip)
+
+---
+
+## 👨‍💻 Technical Skills
+* **Security:** Threat Identification, Identity & Access Management (IAM), PKI.
+* **Operating Systems:** Linux (Debian/ChromeOS), Windows Server, MacOS.
+* **Networking:** RAID 5, TCP/IP Troubleshooting, Network Configuration.
+* **Technical Documentation:** [View Lab Report (PDF)](./Lab-works) 
+
+---
+## Continuous Learning
+* ** I am still working on some courses, for example, IBM Cybersecurity. **
+
+## 📫 Connect with Me
+* **LinkedIn:** [https://www.linkedin.com/in/rdk278/]
