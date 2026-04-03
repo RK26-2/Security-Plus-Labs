@@ -6,7 +6,7 @@ Welcome to my technical portfolio. I am a **CompTIA Security+ Certified** profes
 
 ## 🏆 Certifications
 * **CompTIA Security+ CE and others** * *Status:* Active (2026)
-  * *Verification:* [View Certificate](./certificates/)
+  * *Verification:* [View Certificate](./Certificates)
 
 ## 🛠️ Technical Labs & Projects
 In these labs, I demonstrated hands-on proficiency in security configurations and troubleshooting.
